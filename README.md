@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This is a fork of FreeBSD with the BMQ Scheduler implementation. See [README.bmq-scheduler.md](README.bmq-scheduler.md) for details.
+
 FreeBSD Source:
 ---------------
 This is the top level of the FreeBSD source directory.
