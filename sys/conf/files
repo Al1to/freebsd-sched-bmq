@@ -3927,6 +3927,7 @@ kern/posix4_mib.c		standard
 kern/sched_4bsd.c		optional sched_4bsd
 kern/sched_shim.c		standard
 kern/sched_ule.c		optional sched_ule
+kern/sched_bmq.c		optional sched_bmq
 kern/serdev_if.m		standard
 kern/stack_protector.c		standard \
 	compile-with "${NORMAL_C:N-fstack-protector*}"
