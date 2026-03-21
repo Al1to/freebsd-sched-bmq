@@ -204,6 +204,7 @@ QUOTA
 SCHED_4BSD	opt_sched.h
 SCHED_STATS	opt_sched.h
 SCHED_ULE	opt_sched.h
+SCHED_BMQ	opt_sched.h
 SLEEPQUEUE_PROFILING
 SLHCI_DEBUG	opt_slhci.h
 SOCKET_HHOOK	opt_global.h
