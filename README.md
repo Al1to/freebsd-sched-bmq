@@ -1,3 +1,8 @@
+> [!NOTE]
+> This branch tracks the upstream FreeBSD source. All development for the **BMQ Scheduler** implementation is located in the [bmq-scheduler](https://github.com/al1to/freebsd-sched-bmq/tree/bmq-scheduler) branch.
+> 
+> For details, please refer to [README.bmq-scheduler.md](https://github.com/al1to/freebsd-sched-bmq/blob/bmq-scheduler/README.bmq-scheduler.md) in that branch.
+
 FreeBSD Source:
 ---------------
 This is the top level of the FreeBSD source directory.
