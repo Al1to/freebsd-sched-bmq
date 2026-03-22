@@ -1,5 +1,5 @@
-> [!IMPORTANT]
-> This is a fork of FreeBSD with the BMQ Scheduler implementation. See [README.bmq-scheduler.md](README.bmq-scheduler.md) for details.
+> [!NOTE]
+> This is a fork of FreeBSD with the **BMQ Scheduler** implementation. See [README.bmq-scheduler.md](README.bmq-scheduler.md) for details.
 
 FreeBSD Source:
 ---------------
